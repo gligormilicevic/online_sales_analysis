@@ -28,4 +28,3 @@ for _ in range(3):
 
 my_cart.display_cart()
 print(f"Cart Total: {my_cart.calculate_total()}")
->>>>>> > add-cart-functionality
